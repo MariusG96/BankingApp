@@ -1,0 +1,14 @@
+c:\users\mariu\source\repos\BankingAppV1\BankingAppV1\obj\Debug\BankingAppV1.csprojResolveAssemblyReference.cache
+c:\users\mariu\source\repos\BankingAppV1\BankingAppV1\obj\Debug\BankingAppV1.csproj.CoreCompileInputs.cache
+c:\users\mariu\source\repos\BankingAppV1\BankingAppV1\bin\Debug\BankingAppV1.exe.config
+c:\users\mariu\source\repos\BankingAppV1\BankingAppV1\bin\Debug\BankingAppV1.exe
+c:\users\mariu\source\repos\BankingAppV1\BankingAppV1\bin\Debug\BankingAppV1.pdb
+c:\users\mariu\source\repos\BankingAppV1\BankingAppV1\obj\Debug\BankingAppV1.exe
+c:\users\mariu\source\repos\BankingAppV1\BankingAppV1\obj\Debug\BankingAppV1.pdb
+C:\Users\mariu\Desktop\BankingAppV1\BankingAppV1\BankingAppV1\bin\Debug\BankingAppV1.exe.config
+C:\Users\mariu\Desktop\BankingAppV1\BankingAppV1\BankingAppV1\bin\Debug\BankingAppV1.exe
+C:\Users\mariu\Desktop\BankingAppV1\BankingAppV1\BankingAppV1\bin\Debug\BankingAppV1.pdb
+C:\Users\mariu\Desktop\BankingAppV1\BankingAppV1\BankingAppV1\obj\Debug\BankingAppV1.csprojResolveAssemblyReference.cache
+C:\Users\mariu\Desktop\BankingAppV1\BankingAppV1\BankingAppV1\obj\Debug\BankingAppV1.csproj.CoreCompileInputs.cache
+C:\Users\mariu\Desktop\BankingAppV1\BankingAppV1\BankingAppV1\obj\Debug\BankingAppV1.exe
+C:\Users\mariu\Desktop\BankingAppV1\BankingAppV1\BankingAppV1\obj\Debug\BankingAppV1.pdb
